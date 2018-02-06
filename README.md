@@ -1,5 +1,3 @@
-# ChineseSpellingChecker
-
 ## Word Add-ins
  
 - Requirement:  
