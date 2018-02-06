@@ -2,14 +2,14 @@
  
 - Requirement:  
     - Office for Mac 2016 - Word (15.22 or later) Node.js runtime
--  Download the manifest.xml to the menifest folder:
+-  Download the manifest.xml to a folder[A]:
     - [chinese-checker-manifest.xml](https://github.com/GarnixVai/ChineseSpellingChecker/blob/master/chinese-checker-manifest.xml)
     - [english-checker-manifest.xml](https://github.com/dspp779/gec-githubpage/blob/master/english-checker-manifest)
 
 
 
 ```
-(in the menifest folder)
+(in the A folder)
 
 
 mv ~/Library/Containers/com.microsoft.Word/Data/Documents ~/Library/Containers/com.microsoft.Word/Data/documents
